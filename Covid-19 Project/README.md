@@ -1,7 +1,3 @@
-Here’s a draft for your GitHub README that explains your SQL and Tableau project on COVID-19:
-
----
-
 # COVID-19 Data Analysis Project
 
 ### Overview
