@@ -71,12 +71,5 @@ In 2024, the U.S. alone reported 20,700 new cases of CLL, with 4,440 deaths. Mol
 
 This project demonstrates the application of advanced computational biology methods to analyze single-cell RNA-seq data. By developing predictive tools to classify CLL subtypes, the research contributes to understanding disease progression at the molecular level and aids in identifying personalized treatment approaches.
 
-### Presentation & Reports
+### Presentation
 - [Final Presentation](link_to_presentation)
-- [Progress Report 1](link_to_report1)
-- [Progress Report 2](link_to_report2)
-- [Progress Report 3](link_to_report3)
-
----
-
-Let me know if you’d like further edits or if you have more details to add!
